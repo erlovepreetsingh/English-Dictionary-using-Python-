@@ -57,7 +57,7 @@ def loopagain():
             print("Meaning - " + item[1])
     else:
         print(output)
-    print("hello")    
+        
     loopagain()
 
 loopagain()
