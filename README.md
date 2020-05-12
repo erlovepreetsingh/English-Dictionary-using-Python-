@@ -17,4 +17,7 @@ These are Python scripts to make an interactive English Dictionary which is very
 2. mysql.connector library 
 
 ### Note - If mysql.connector library is not installed use cmd command - pip install mysql.connector
+## How to use-
+1. Clone the files in the repositry to your system. Make sure the "data.json" and "python_word_dict.py" should be at same location because these two files work together. File named "dictionary_finder_sqlConnect.py" can work freely do not requires any other files.
+2. Run the Pyhton script file using CMD.
 
